@@ -31,7 +31,7 @@ Clone the repository:
 git clone https://github.com/Abhay109z/LoanOrchestrator.git
 cd LoanOrchestrator
 
-## Backend Setup (FastAPI)
+##Backend Setup (FastAPI)
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -40,7 +40,7 @@ Backend runs at:
 
 http://localhost:8000
 
-## Frontend Setup (React)
+##Frontend Setup (React)
 
 cd frontend
 npm install
@@ -50,7 +50,7 @@ npm start
 
 http://localhost:3000
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Frontend: React, CSS, JavaScript
 
@@ -60,10 +60,10 @@ Database: (to be added – e.g., PostgreSQL, MongoDB)
 
 Testing: PyTest (backend), Jest/React Testing Library (frontend)
 
-## 🤝 Contributing
+##🤝 Contributing
 Contributions are welcome!
 Please fork the repository, create a feature branch, and submit a pull request.
 
-## 👤 Author
+##👤 Author
 Abhay109z  
 GitHub: @Abhay109z
